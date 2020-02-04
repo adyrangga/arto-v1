@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Arto</string>
+    <string name="back_button">Back Button</string>
+    <string name="category_form_label">Category :</string>
+    <string name="kind_form_label">Kind :</string>
+    <string name="count_label">Count :</string>
+    <string name="count_hint">Count</string>
+    <string name="description_form_label">Descriptions :</string>
+    <string name="menu_modal_label">Menu</string>
+    <string name="setting_modal_label">Setting</string>
+    <string name="modal_item_info">Item Info</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="spinner_main">Spinner Main</string>
+    <string name="set_outcome_limit">Set Daily Outcome Limit</string>
+    <string name="current_limit">Current Limit</string>
+    <string name="outcome_along_time">Outcome along Time :</string>
+    <string name="warning">Warning</string>
+    <string name="safe">Safe</string>
+    <string name="danger">Danger</string>
+    <string name="note_form_label">Note</string>
+</resources>
